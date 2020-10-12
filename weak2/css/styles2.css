@@ -3,10 +3,12 @@
     background-color: #ffe500;
 }
 body{
+    position: relative;
+    left: 300px;
     line-height: 1.5;
     color: #121212;
     font-family: "Guardian Egyptian Web",Georgia,serif;
-    margin-left: 300px;
+    
     border-left: #e8e8e8 1px solid;
     padding: 8px;  
 }
@@ -96,12 +98,6 @@ figcaption .principal{
         margin-right: 5px;
         margin-left: 5px;
 }
-.separation-lines{
-    padding-top: 2px;
-    border-spacing: 5px;
-    border-top:  #e8e8e8  5px double;
-    border-bottom: #e8e8e8  5px double;
-}
 footer a{
     text-decoration: none;
     color: #bb3b80;
@@ -130,3 +126,9 @@ footer a:hover{
     padding-bottom: 30px;
     border-bottom: #e8e8e8 1px solid;
 }
+.separation-lines{
+    padding-top: 2px;
+    border-spacing: 5px;
+    border-top:  #e8e8e8  5px double;
+    border-bottom: #e8e8e8  5px double;
+    }
