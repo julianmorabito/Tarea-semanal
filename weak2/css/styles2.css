@@ -1,0 +1,132 @@
+::selection{
+    color: #121212;
+    background-color: #ffe500;
+}
+body{
+    line-height: 1.5;
+    color: #121212;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+    margin-left: 300px;
+    border-left: #e8e8e8 1px solid;
+    padding: 8px;  
+}
+h1{
+    color: #7d0068;
+    font-weight: 700;
+    font-size: 34px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 3px;
+    padding-bottom: 36px;
+    margin: 0;
+    width: 660px;
+    line-height: 38px;
+    display: block;
+    width: 620px;    
+}
+p{
+    margin:  0 0 0 12px;
+    padding: 0;
+    display: block;
+    margin-block-start: 16px;
+    margin-block-end:16px ;
+    margin-inline-start: 0;
+    margin-inline-end: 0 ;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    font-family: Guardian Text Egyptian Web,Georgia,serif;
+    width: 620px;
+}
+p a{
+    text-decoration: none;
+    color: #7d0068;
+    border-bottom: 1px #dcdcdc solid;
+}
+p a:hover{
+    text-decoration: underline;
+}
+figure{
+    margin: 0;
+    padding: 0;
+}
+figcaption{
+    font-size: 12px;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    color: #767676;
+    line-height: 16px;
+    width: 520px;
+}
+figcaption .principal{
+    width: 620px;
+}
+.image{
+    width: 620px;
+    height: 370.188px;
+}
+.image-principal{
+    width: 620px;
+    height: 413.164px;
+    margin-left: 0;
+    margin-bottom: 0px;
+    border: 0;
+    position: relative;   
+}
+.introduction{
+    padding-bottom: 0;   
+    font-family: Guardian Egyptian Web,Georgia,serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 23px;
+    width: 540px;
+    height: 46px;
+    margin-bottom: 8px;
+    letter-spacing: -0.5px;
+}
+.first-letter{
+        display: inline;
+        color: #7d0068;
+        font-weight: 700;
+        font-size: 109px;
+        line-height: 75px;
+        float: left;
+        margin-top: 4px;
+        margin-right: 5px;
+        margin-left: 5px;
+}
+.separation-lines{
+    padding-top: 2px;
+    border-spacing: 5px;
+    border-top:  #e8e8e8  5px double;
+    border-bottom: #e8e8e8  5px double;
+}
+footer a{
+    text-decoration: none;
+    color: #bb3b80;
+}
+footer a:hover{
+    text-decoration: underline;
+    text-decoration-color: #bb3b80;
+}
+.footer-title{
+    font-size: 12px;
+    line-height: 16px;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    color: #999;
+    display: inline;
+}
+.footer-element{
+    font-size: 17px;
+    line-height: 20px;
+    font-family: "Guardian Egyptian Web",Georgia,serif;
+}
+.footer-nav{
+    padding-top: 5px;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: "Guardian Text Sans Web","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    padding-bottom: 30px;
+    border-bottom: #e8e8e8 1px solid;
+}
