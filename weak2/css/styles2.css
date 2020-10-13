@@ -9,7 +9,6 @@ body {
     line-height: 1.5;
     color: #121212;
     font-family: "Guardian Egyptian Web",Georgia,serif;
-    
     border-left: #e8e8e8 1px solid;
     padding: 8px;  
 }
@@ -110,7 +109,7 @@ figcaption .principal {
 }
 
 .circle {
-    border: 1px violet solid;
+    border: 1px #e8e8e8 solid;
     width: 32px;
     height: 32px;
     border-radius: 50%;
@@ -122,7 +121,6 @@ figcaption .principal {
     margin-left: 7px;
     margin-top: 7px; 
     fill: #bb3b80;
-
 }
 
 .icon {
@@ -188,8 +186,6 @@ figcaption .principal {
         margin-left: 5px;
 }
 
-
-
 .footer-title {
     font-size: 12px;
     line-height: 16px;
@@ -218,4 +214,12 @@ figcaption .principal {
     border-spacing: 5px;
     border-top:  #e8e8e8  5px double;
     border-bottom: #e8e8e8  5px double;
-    }
+}
+
+.nextnews {
+    background-color: #ffffff;
+    color: #c70000;
+    border: #bb3b80 1px solid;
+    width: 280px;
+    height: 20px;
+}
